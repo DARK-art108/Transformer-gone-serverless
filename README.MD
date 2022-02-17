@@ -1,5 +1,5 @@
 ## Classification service   
-Classification using Transformers on AWS Lambda. Check root readme for complete setup info.
+Classification using Transformers on AWS Lambda. Check root readme for complete setup info
 
 ## Request format
 ```
