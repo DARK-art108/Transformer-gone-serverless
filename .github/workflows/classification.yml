@@ -33,4 +33,4 @@ jobs:
             region: us-east-1
             image: classification
         - name: Update lambda with image
-          run: aws lambda update-function-code --function-name  classification --image-uri 968911158010.dkr.ecr.us-east-1.amazonaws.com/classification:latest
+          run: aws lambda update-function-code --function-name  classification --image-uri 966180254834.dkr.ecr.us-east-1.amazonaws.com/classification:latest
